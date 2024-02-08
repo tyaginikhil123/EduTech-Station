@@ -1,4 +1,4 @@
-# StudyNotion
+# EduTech-Station
 ## Live 
 
 ## Installation
